@@ -36,7 +36,7 @@ body {
   align-items: center;
   margin-left: auto;
   margin-right: auto;
-  width: 500px;
+  width: 100vw;
   height: 600px;
   background-color: gray;
 }
@@ -74,7 +74,7 @@ body {
 .todo-item {
   display: flex;
   justify-content: space-between;
-  padding: 4px;
+  padding: 60px;
   font-size: 1.5rem;
 }
 .todo-item button {
